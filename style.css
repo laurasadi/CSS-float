@@ -1,0 +1,54 @@
+#pirmas{
+    background-color: #ff5733;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+}
+#antras{
+    background-color: #C70039;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+}
+#trecias{
+    background-color: #581845;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+}
+#ketvirtas{
+    background-color:#FFC300;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+}
+article{
+    display: inline-block;
+}
+section{
+    position: absolute;
+    height: 800px;
+    width: 500px;
+    background-color: #AFCFBA;
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+    border-style: solid;
+    padding: 10px;
+
+}
+#virsusKaire{
+    float:left;
+}
+#virsusDesine{
+    float: right;
+}
+#virsus{
+    position:absolute;
+    margin: 20px;
+}
+#apacia{
+    position:relative;
+    margin: 20px;
+}
